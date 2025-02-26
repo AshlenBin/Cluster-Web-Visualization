@@ -1,0 +1,12 @@
+Unnamed: 0,mut_series,Combi,rep,Sequence,Protein,cdsCAI,utrCdsStructureMFE,fivepCdsStructureMFE,threepCdsStructureMFE,cdsBottleneckPosition,cdsBottleneckRelativeStrength,cdsNucleotideContentAT,cdsHydropathyIndex,seed
+190,1,11221121,1,tctgttggtgtaccttatcctaagtgtcgatggtatgaggtttatgatgctcaatattacgatctacggaccaaacctcagattattgttggaact,10.57888047,0.251107527,-13.2,-10.1,-11.9,6,1.399283033,0.611111111,-1.027272727,1
+116,1,11132111,1,agtgttggggtttgctatcctaagtgccgttggagtgagatgtacgacgctcagtattatgatcttcgtactaagccacagataatagtcggaact,31.83518911,0.255989622,-12,-15.4,-11,232,1.390726632,0.555555556,-1.190909091,1
+3880,1,33212112,1,tctgttggagtctgctacccgaaatgtagatggtctgagatttacgatgctcagtactatgaccttcgtactaagcctcagatcatcgttggtact,83.69208489,0.453196483,-5.3,-10.3,-19.5,232,1.403405218,0.5,-0.954545455,1
+65,1,11121213,2,agtgttggggtatgttacccacgctttgtgtgtgctgtgatttgtgatagtcagtgttacgatctacgcacgaagcctcaaatcatagtttgtact,34.10765146,0.26388214,-12.4,-14.9,-15.2,2,1.501759621,0.555555556,1.563636364,1
+941,1,13121123,2,agtgttggagtttgctatccgaagttcgtctgtgcggagatttgtgacgctcagtgttatgacctccgaaccaagccggaaattatagttcgaact,48.7656627,0.269677755,-6.7,-15.1,-14.9,2,1.407240256,0.611111111,1.1,1
+2947,1,31212113,3,agtgtcggtgttggctaccctcggtgcgtttgtgctcagatctgcgacgcaaagtgctatgatctgcgcacaaaggaccagatcattgttggcact,36.35904275,0.460563593,-14,-12.1,-21.1,232,1.40935819,0.444444444,1.036363636,1
+1624,1,21231221,2,tctgttggagtgcattatcctcagtgtcattggcctaagagctattatgctcagtatatctatcttactactaagccgcagatcatcgttggtact,53.81492881,0.419471758,-12.2,-12.8,-8.5,6,1.578553714,0.611111111,-1.227272727,1
+99,1,11131122,1,agtgttagtgtgccttatcctaagtgtcggtggtcggaggtatatggagcacaatattacgatcttcgaactaatccccaaatcatagttggaact,22.04546891,0.133320433,-12.7,-16.6,-9.2,6,1.411310713,0.611111111,-0.7,1
+2918,1,31211123,1,agtgtcgttgtatactatcctgcatgtgtttgtgcgaagatctgtcacgctaagtgctatgacctgtgtactaagccgcagatcattgttggtact,28.73238787,0.521966008,-12.2,-9.7,-16.9,7,1.455160355,0.666666667,1.027272727,1
+2422,1,23131223,2,agtgttggtgtttgttaccctagatttgtttgtgcggaaatctgtgacgctcaatgctacgttcttagaacaaaaccccagatcattgtcgttact,54.7918932,0.325680168,-6.1,-14.7,-8.2,5,1.508980477,0.611111111,1.1,1
+646,1,12221212,2,agcgtcggagtaagttatccaaagttcgtttgtcctgagatttgtgatgctcaatgttatgatctgcggacaaagccacagatcatagttggaact,74.21384798,0.212687118,-7.9,-13,-15.8,6,1.505551137,0.555555556,0.790909091,1
